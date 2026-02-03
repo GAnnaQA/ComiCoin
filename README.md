@@ -37,7 +37,7 @@ The documentation was developed with an emphasis on atomicity and clear verifica
 * **QA Glossary:** Professional industry terminology and project-specific definitions
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1KBb3VEokFW2Pk3Aw30ox9EZo5GiXzGjB8VtByAdFNFQ/edit?usp=sharing) (recommended) or [download local XLSX copy](./test_documentation/Glossary_Comicoin.xlsx).
 * **Test Cases (Story and Tests):** A suite of positive test cases verifying test logic, in-module navigation, and result scoring accuracy.
-* [Google Sheets](https://docs.google.com/spreadsheets/d/1RXzrb94agzs1BjkufsWQ3cceSax6QCII9koMEgMVsCY/edit?usp=sharing) (recommended) or [local PDF copy](./test_documentation/Test_cases_Comicoin.xlsx).
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1RXzrb94agzs1BjkufsWQ3cceSax6QCII9koMEgMVsCY/edit?usp=sharing) (recommended) or [download local PDF copy](./test_documentation/Test_cases_Comicoin.xlsx).
 * **Full-App Checklist:** A comprehensive checklist designed for full test coverage and regression testing across all application modules.
 * [Google Sheets]() (recommended) or [local PDF copy](./test_documentation/Checklist_Comicoin.pdf).
 
