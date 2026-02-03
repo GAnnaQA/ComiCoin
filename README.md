@@ -36,17 +36,17 @@ The documentation was developed with an emphasis on atomicity and clear verifica
 
 * **QA Glossary:** Professional industry terminology and project-specific definitions
 * [Google Sheets](https://docs.google.com/spreadsheets/d/1KBb3VEokFW2Pk3Aw30ox9EZo5GiXzGjB8VtByAdFNFQ/edit?usp=sharing) (recommended) or [download local XLSX copy](./test_documentation/Glossary_Comicoin.xlsx).
-* **Test Cases (Comicoin Tests):** A suite of positive test cases verifying test logic, in-module navigation, and result scoring accuracy.
-* [Google Sheets (Link)]() (recommended) or [local PDF copy](./test_documentation/Comicoin_Test_Cases.pdf).
+* **Test Cases (Story and Tests):** A suite of positive test cases verifying test logic, in-module navigation, and result scoring accuracy.
+* [Google Sheets](https://docs.google.com/spreadsheets/d/1RXzrb94agzs1BjkufsWQ3cceSax6QCII9koMEgMVsCY/edit?usp=sharing) (recommended) or [local PDF copy](./test_documentation/Test_cases_Comicoin.xlsx).
 * **Full-App Checklist:** A comprehensive checklist designed for full test coverage and regression testing across all application modules.
-* [Google Sheets (Link)]() (recommended) or [local PDF copy](./test_documentation/Checklist_Comicoin.pdf).
+* [Google Sheets]() (recommended) or [local PDF copy](./test_documentation/Checklist_Comicoin.pdf).
 
 ---
 
 ## 🐛 Bug Reports (Selected)
 Defects were identified and classified based on their impact on user experience and the **primary business goals of the application**.
 
-* **Bug Reports Registry:** [Google Sheets (Link)]() (recommended) or [local PDF copy](./test_documentation/Bug_Reports_Comicoin.pdf).
+* **Bug Reports Registry:** [Google Sheets]() (recommended) or [local PDF copy](./test_documentation/Bug_Reports_ComiCoin.xlsx).
 
 ### Key Findings:
 1. **🔴 Critical (Security): System Lock Screen Bypass.** A critical vulnerability where the application remains active and interactable on top of the system lock screen (PIN/Biometrics), compromising user data privacy.
